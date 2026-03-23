@@ -56,7 +56,7 @@ assets/
 ## ▶️ Como executar
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/coffee_card.git
+git clone https://github.com/HikariLucky/Coffee_Card.git
 
 2. Acesse a pasta:
 cd coffee_card
