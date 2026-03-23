@@ -25,20 +25,20 @@ A aplicação apresenta um card de produto (Cappuccino), contendo imagem, descri
 
 ## 🧩 Funcionalidades
 
-- 📷 Exibição de imagem do produto  
-- 📝 Nome e descrição  
-- 💰 Preço destacado  
-- 🛒 Botão "Order now"  
-- 🎨 Design com bordas arredondadas e sombra  
-- 📱 Estrutura pronta para expansão  
+- 📷 Exibição de imagem do produto
+- 📝 Nome e descrição
+- 💰 Preço destacado
+- 🛒 Botão "Order now"
+- 🎨 Design com bordas arredondadas e sombra
+- 📱 Estrutura pronta para expansão
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-- Flutter  
-- Dart  
-- Material Design  
+- Flutter
+- Dart
+- Material Design
 
 ---
 
